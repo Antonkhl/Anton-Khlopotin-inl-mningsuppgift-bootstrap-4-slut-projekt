@@ -11,3 +11,64 @@ body {
     left: 680px;
 }
 
+.video {
+    position: relative;
+    left: 350px;
+  top: 100px;
+}
+
+.fileinput {
+  position: relative;
+ left: 570px;
+ top: 80px;
+}
+
+.footer1234 {
+    position: relative;
+    top: 150px;
+    background-color: #17a2b8;
+
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.registerForm {
+ width: 1000px;
+ height: 500px;
+position: relative;
+ left: 350px;
+ bottom: 300px;
+}
+
+.rangeinput {
+   position: relative;
+   bottom: 445px;
+   width: 200px;
+   left: 800px;
+}
+
+.bild1 {
+    position: relative;
+    width: 2000px;
+    left: 1000px;
+    bottom: 200px;
+    height: 200px;
+}
+
+.headerIndex {
+    position: relative;
+    left: 400px;
+}
+
+.Bild2 {
+position: relative;
+top: 100px;
+}
+
+
+.bild3 {
+    position: relative;
+  left: 300px;
+}
